@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T07:31:10.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TsGtkah9hTepVGf5HgAf" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:31:43.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="f0er34rITeP0bSpbgGa3" version="15.7.3" type="github">
   <diagram id="IuRK4OOVFnM3gcbih9Tb" name="Page-1">
-    <mxGraphModel dx="1131" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="74" dy="45" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EqGL3WKhdZ_vhaVdY7gF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EqGL3WKhdZ_vhaVdY7gF-1" target="EqGL3WKhdZ_vhaVdY7gF-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EqGL3WKhdZ_vhaVdY7gF-1" value="Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="265" width="90" height="30" as="geometry" />
         </mxCell>
@@ -60,6 +57,17 @@
         <mxCell id="EqGL3WKhdZ_vhaVdY7gF-21" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="EqGL3WKhdZ_vhaVdY7gF-20">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqGL3WKhdZ_vhaVdY7gF-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EqGL3WKhdZ_vhaVdY7gF-10" target="EqGL3WKhdZ_vhaVdY7gF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="760" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EqGL3WKhdZ_vhaVdY7gF-23" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="EqGL3WKhdZ_vhaVdY7gF-22">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
