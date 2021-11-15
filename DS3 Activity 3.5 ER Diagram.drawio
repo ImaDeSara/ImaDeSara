@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:12:20.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="pgzF31VxbTIM0nIWzhlh" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:12:50.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Cyw9X-U5oqsuTqaaZ1aa" version="15.7.3" type="github">
   <diagram id="thSH0ayQxO71pJ6wV1Sd" name="Page-1">
     <mxGraphModel dx="546" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,8 +81,8 @@
         <mxCell id="2t8MsXC4N8kTPNsJ7Vme-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2t8MsXC4N8kTPNsJ7Vme-8" value="&lt;span&gt;New Car&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="580" width="95" height="25" as="geometry" />
+        <mxCell id="2t8MsXC4N8kTPNsJ7Vme-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="570" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2t8MsXC4N8kTPNsJ7Vme-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2t8MsXC4N8kTPNsJ7Vme-7" target="qbq0ifineMjqy3SYOCrd-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="2t8MsXC4N8kTPNsJ7Vme-69" value="&lt;span&gt;Used Car&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="577.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2t8MsXC4N8kTPNsJ7Vme-70" value="&lt;span&gt;New Car&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777.5" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
