@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T09:26:59.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8sqxmU_bDPIzTjrAfwpk" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T09:29:00.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="J3nzwreFzpcBM45Epj5c" version="15.7.3" type="github">
   <diagram id="ZB2PkOVlPT2-zo93CzSN" name="Page-1">
     <mxGraphModel dx="792" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,6 +320,21 @@
         </mxCell>
         <mxCell id="KcIeR8g20Xgpo551yg-J-96" value="Age" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="760" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-102" target="KcIeR8g20Xgpo551yg-J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-102" target="KcIeR8g20Xgpo551yg-J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-102" value="interact" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-105" target="KcIeR8g20Xgpo551yg-J-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-105" value="Severity of interaction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="720" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
