@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T09:04:49.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CtcOqdc4QZNiWhgXp8HM" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T09:05:54.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mrIGVMKHj1d70AturpkS" version="15.7.3" type="github">
   <diagram id="ZB2PkOVlPT2-zo93CzSN" name="Page-1">
     <mxGraphModel dx="792" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -243,6 +243,34 @@
         </mxCell>
         <mxCell id="KcIeR8g20Xgpo551yg-J-41" value="Exp. Date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-77" value="Date" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgba(0, 0, 0, 1);align=center;strokeColor=rgba(0, 0, 0, 1);fillColor=rgba(255, 255, 255, 1);" vertex="1" parent="1">
+          <mxGeometry x="375" y="35" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-78" target="KcIeR8g20Xgpo551yg-J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-78" value="Time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-79" target="KcIeR8g20Xgpo551yg-J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-79" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-10" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KcIeR8g20Xgpo551yg-J-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcIeR8g20Xgpo551yg-J-80" value="Category" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-25" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
