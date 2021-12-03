@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImaDeSara
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Scratch
+- 🌱 I’m currently a Software Engineering undergraduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
