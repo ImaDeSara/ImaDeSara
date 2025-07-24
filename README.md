@@ -3,14 +3,6 @@
 🎓 Currently pursuing my degree in Software Engineering
 
 👀 Passionate about building clean, scalable full-stack applications
-
-💻 Tech Stack:
-
-    • Frontend – Angular, HTML, CSS, JavaScript, Bootstrap
-    
-    • Backend – Java, Spring Boot, Python, PHP, Node.js
-    
-    • Database – MySQL
     
 🧪 Currently learning Selenium for automated testing
 
