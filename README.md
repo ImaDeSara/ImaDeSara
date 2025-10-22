@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://codeandcoffee7.wordpress.com/](https://codeandcoffee7.wordpress.com/)
 
-- 💬 Ask me about **web development**
-
 - 📫 How to reach me **imashadesaram@gmail.com**
 
 - 📄 Know about my experiences [https://imashadesaram.vercel.app/cv/imasha%20de%20saram%20cv.pdf](https://imashadesaram.vercel.app/cv/imasha%20de%20saram%20cv.pdf)
