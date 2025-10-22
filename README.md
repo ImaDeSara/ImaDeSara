@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, AWS**
 
-- 👨‍💻 All of my projects are available at [https://imashadesaram.vercel.app/](https://imashadesaram.vercel.app/)
+- 👨‍💻 Check out my portfolio 🌐 [https://imashadesaram.vercel.app/](https://imashadesaram.vercel.app/)
 
 - 📝 I regularly write articles on [https://codeandcoffee7.wordpress.com/](https://codeandcoffee7.wordpress.com/)
 
