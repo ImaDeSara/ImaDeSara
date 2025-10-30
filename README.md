@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadesara&label=Profile%20views&color=0e75b6&style=flat" alt="imadesara" /> </p>
 
-- 🌱 I’m currently learning **React, AWS**
+- 🌱 I’m currently learning **React, Next.js and AWS**
 
 - 👨‍💻 Check out my portfolio 🌐 [https://imashadesaram.vercel.app/](https://imashadesaram.vercel.app/)
 
