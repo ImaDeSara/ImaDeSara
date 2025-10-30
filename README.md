@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imashadesaram@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://imashadesaram.vercel.app/cv/imasha%20de%20saram%20cv.pdf)
+- 📄 Know about my experiences [my CV](https://codeandcoffee7.wordpress.com/wp-content/uploads/2025/10/imasha-de-saram-cv.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
