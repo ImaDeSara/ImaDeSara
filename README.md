@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my portfolio 🌐 [https://imashadesaram.vercel.app/](https://imashadesaram.vercel.app/)
 
-- 📝 I regularly write articles on [https://codeandcoffee7.wordpress.com/](https://codeandcoffee7.wordpress.com/)
+- 📝 I regularly write articles on [codeandcoffee7](https://codeandcoffee7.wordpress.com/) and [medium](https://medium.com/@imashadesaram)
 
 - 📫 How to reach me **imashadesaram@gmail.com**
 
